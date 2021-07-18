@@ -159,7 +159,7 @@ class Emp{
     }
 }
 
-let e1= new Emp('vishwas');
+let e1= new Emp('vishwas gopinath');
 console.log(e1.emp);
 e1.greet();
 
