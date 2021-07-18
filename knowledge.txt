@@ -1,0 +1,11 @@
+TyeScript-Open source programing langauge byn microsfot
+Tpescrupt is sbasically a superset of js
+Coplikes down to plain js
+
+Why TyeScript
+Optinal static typing and type interference
+js is dyna,ically typed language
+Ide support
+
+Variabl type
+1)boolean, string, number
